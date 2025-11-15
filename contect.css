@@ -1,0 +1,30 @@
+body{
+    background-image: url(pan.jpg);
+    background-repeat: no-repeat;
+    background-size: 1270px 610px;
+}
+form{
+    border: solid 1px;
+    width: 450px;
+    margin-left: 100px;
+    padding-left: 10px;
+}
+label{
+    font-size: 22px;
+    color: rgb(0, 17, 255);
+    font-weight: bold;
+}
+input{
+    height: 35px;
+    width: 300px;
+}
+textarea{
+    border-radius: 20px;
+    height: 100px;
+    width: 300px;
+}
+button{
+    background-color: rgb(255, 136, 0);
+    color: blanchedalmond;
+  
+}
